@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "appnew"
+    },
+    "appnew": {
+      "applicationId": "dYOXxuqRbe1UFsaG0ftpXWyCIjMIcp2ziMK5Q6Q4"
+    }
+  }
+}
